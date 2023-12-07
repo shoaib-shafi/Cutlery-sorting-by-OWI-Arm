@@ -12,5 +12,5 @@ iii) Detecting the type of cutlery whether it is a spoon, fork or knife.
 
 iv) Pick up the detected cutlery using the modified electromagnet end effector.
 
-v) Placeing the cutlery to a desired location based on it's detection using color thresholding.
+v) Placing the cutlery to a desired location based on it's detection using color thresholding.
 
